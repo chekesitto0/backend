@@ -12,11 +12,11 @@ const moment = require('moment-timezone');
 // };
 
 module.exports = {
-    host: 'bac8j1tscxhxe8rfyabz-mysql.services.clever-cloud.com',
-    user:'ug6qb6nsvbenkqyu',
-    port: 21521,
-    password:'TCCIoFEwzt9RYpNaAWx',
-    database: 'bac8j1tscxhxe8rfyabz',
+    host: 'bd9z2ehhvje7ypfkkgke-mysql.services.clever-cloud.com',
+    user:'u8nfb9dsmomkkbok',
+    port: 3306,
+    password:'IcTcWlznaDVsFi5AAprz',
+    database: 'bd9z2ehhvje7ypfkkgke',
     waitForConnections:true,
     connectionLimit:10,
     queueLimit:0,
